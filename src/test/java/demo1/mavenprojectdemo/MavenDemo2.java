@@ -12,7 +12,10 @@ public class MavenDemo2 {
 	public void addition() {
       System.out.println("bharath");
       System.out.println("name");
-	}
+        
+      System.out.println("Username");	
+      System.out.println("kbharath5050@gmail.com"); 
+}
 	
 	
 }
